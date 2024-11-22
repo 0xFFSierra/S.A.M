@@ -10,7 +10,7 @@ S.A.M. is:
 -   **Modular**: Capable of handling diverse tasks across multiple domains with ease.
 -   **Adaptive**: Learns from your interactions to provide personalized, smarter assistance over time.
 -   **Private**: Fully localized and containerized, ensuring your data remains secure.
--   **Intelligent**: Leverages advanced AI models for natural language understanding, decision-making, and emotional awareness.
+-   **Intelligent**: Leverages advanced AI models for natural language understanding, decision-making, and **vocal emotional awareness**.
 
 * * * * *
 
