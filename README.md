@@ -1,4 +1,4 @@
-**S.A.M. - Some Assistant Man**
+**S.A.M. - Some Assistant, Man!**
 ===============================
 
 ### **Overview**
@@ -20,14 +20,17 @@ S.A.M. is:
 
     -   Reinforcement learning and NLP models allow S.A.M. to improve continuously.
     -   Integrates across tasks to holistically enhance functionality.
+
 2.  **Neural Visualization**:
 
     -   Dynamic visualization of S.A.M.'s "thoughts" and processes via an interactive neural map.
+
 3.  **Multi-Domain Expertise**:
 
     -   **Cybersecurity**: Monitor threats, simulate attacks, and provide actionable defenses.
     -   **Storytelling**: Collaborate on writing novels, building characters, and generating lore.
-    -   **Productivity**: Assist with scheduling, task prioritization, and ADHD-friendly workflows.
+    -   **Productivity**: Assist with scheduling, task prioritization, and Neurodivergent-friendly workflows.
+
 4.  **Emotional Intelligence**:
 
     -   Adapts responses to suit your mood, offering motivational, empathetic, or logical interactions.
@@ -96,12 +99,15 @@ S.A.M. isn't just an assistant---it's an evolving entity that reflects your skil
 1.  **Phase 1**: Neural Dashboard
 
     -   Build the interactive visualization of S.A.M.'s processes.
+    -   
 2.  **Phase 2**: Core Modules
 
     -   Develop modular functionalities for cybersecurity, storytelling, and productivity.
+    -   
 3.  **Phase 3**: Voice and Personality
 
-    -   Integrate text-to-speech and emotional intelligence.
+    -   Integrate text-to-speech and **emotional intelligence**.
+    -   
 4.  **Phase 4**: Unified Ecosystem
 
     -   Combine all modules into a cohesive, ever-learning AI assistant.
@@ -110,4 +116,4 @@ S.A.M. isn't just an assistant---it's an evolving entity that reflects your skil
 
 ### **Disclaimer**
 
-S.A.M. is a private project for personal use and testing in controlled environments. It is not intended for public deployment or unauthorized purposes.
+S.A.M. is a private project right now, in time, S.A.M will roll out in test phases. S.A.M will ALWAYS remain **free**!
