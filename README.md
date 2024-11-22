@@ -116,4 +116,10 @@ S.A.M. isn't just an assistant---it's an evolving entity that reflects your skil
 
 ### **Disclaimer**
 
-S.A.M. is a private project right now, in time, S.A.M will roll out in test phases. S.A.M will ALWAYS remain **free**!
+S.A.M. is a private project currently in development. While it is under active construction and testing phases, S.A.M. will always remain **free to use** once made public and will transition to an **open-source model** after its full release.
+
+**Key Notes:**
+
+-   S.A.M. is being developed with the intention to empower individuals and communities.
+-   S.A.M. will **never be commercialized**. Technology like this should never be behind a paywall.
+-   Once fully open source, S.A.M. will adhere to an appropriate open-source license that protects its integrity while promoting community contributions.
